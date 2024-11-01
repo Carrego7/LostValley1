@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewporot" content="width=device-width, initial-scale=1.0">
+    <title>LostValley - Regras</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link para o CSS -->
+</head>
+<body>
+
+<header>
+    <h1>Bem-vindo ao LostValley!</h1>
+</header>
+
+<section class="rules">
+    <h2>Regras do Servidor</h2>
+    <meta charset="UTF-8">
+<div></div>    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regras da Comunidade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #007BFF;
+        }
+        .rule {
+            margin-bottom: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .rule h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Regras da Comunidade</h1>
+
+<div class="rule">
+    <h2>1. ➤ Respeito Mútuo</h2>
+    <p>Trate todos com dignidade. Ofensas, bullying e discriminação não serão tolerados.</p>
+</div>
+
+<div class="rule">
+    <h2>2. ➤ Sem Spam</h2>
+    <p>Evite enviar mensagens repetitivas ou irrelevantes. Mantenha as conversas focadas e construtivas.</p>
+</div>
+
+<div class="rule">
+    <h2>3. ➤ Comportamento Positivo</h2>
+    <p>Cultive um ambiente amigável e cooperativo. Evite brigas e discussões desnecessárias.</p>
+</div>
+
+<div class="rule">
+    <h2>4. ➤ Proibição de Trapaças</h2>
+    <p>O uso de hacks, cheats ou qualquer forma de trapaça é estritamente proibido. Joguemos de forma justa!</p>
+</div>
+
+<div class="rule">
+    <h2>5. ➤ Proteção da Privacidade</h2>
+    <p>Respeite a privacidade de todos. Não compartilhe informações pessoais sem consentimento.</p>
+</div>
+
+<div class="rule">
+    <h2>6. ➤ Canais de Comunicação</h2>
+    <p>Utilize os canais apropriados para cada tipo de conversa. Isso ajuda a manter tudo organizado e acessível.</p>
+</div>
+
+<div class="rule">
+    <h2>7. ➤ Decisões da Administração</h2>
+    <p>As decisões da equipe administrativa são finais. Respeite sempre as orientações fornecidas.</p>
+</div>
+
+<div class="rule">
+    <h2>8. ➤ Divulgação Controlada</h2>
+    <p>A divulgação de outros servidores ou comunidades deve ser feita com autorização prévia. Valorize nossa comunidade!</p>
+</div>
+
+<p><strong>Lembre-se:</strong> Nosso objetivo é criar um espaço divertido e seguro para todos! Se tiver dúvidas sobre as regras, não hesite em entrar em contato com a administração.</p>
+
+<p><em>Obs: As regras podem mudar a qualquer momento então sempre que puder olhe para não fazer nada errado!</em></p>
+
+
+   <!-- Adicione mais regras aqui seguindo o mesmo formato -->
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conecte-se ao nosso Servidor de Minecraft!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2em;
+            color: #ffcc00;
+        }
+        h3 {
+            color: #ff6600;
+        }
+        .info {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 10px 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🌟 Conecte-se ao nosso Servidor de Minecraft! 🌟</h1>
+
+    <div class="info">
+        <h3>🕹️ Informações de Conexão:</h3>
+        <p>✨ IP Java Original:<br><strong>lostvalley.enxada.host</strong></p>
+        <p>🔐 IP Java Pirata:<br><strong>enx-cirion-37.enx.host:10787</strong></p>
+        <p>🏰 IP Bedrock (Pirata e Original):<br>
+            - 🌐 Endereço: <strong>enx-cirion-37.enx.host</strong><br>
+            - ⚙️ Porta: <strong>10787</strong>
+        </p>
+    </div>
+
+    <p>Junte-se a nós e mergulhe em uma aventura inesquecível no Minecraft! Estamos animados para vê-lo no servidor! Se precisar de ajuda, não hesite em nos chamar!</p>
+    
+<footer>
+   <p>Junte-se a nós e mergulhe em uma aventura inesquecível no Minecraft!</p>
+</footer>
+
+
+<a href="https://discord.gg/KsMYssT4m3" target="_blank">
+    <button class="discord-button">Junte-se ao nosso Discord!</button>
+</a>
+<img src="https://images-ext-1.discordapp.net/external/B4qqmDFLHse1O7ezuPhmvM8EXS4yIlb6XSGwAc3ZImI/https/media2.giphy.com/media/7OH9z8lL8cnmkOxb6A/200.gif" alt="Ícone do Discord">
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CrazyEnchantments</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #fff;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 3px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+<h1>encantamentos</h1>
+<p>O plugin <strong>de encantamentos</strong> é uma ferramenta que permite adicionar um sistema de encantamentos personalizados e avançados. Aqui estão os principais recursos e funcionalidades:</p>
+
+<ul>
+    <li><strong>Encantamentos Personalizados:</strong> O plugin oferece uma ampla variedade de encantamentos que não estão disponíveis no jogo padrão, permitindo que os jogadores tenham experiências únicas.</li>
+    
+    <li><strong>Compatibilidade:</strong> Funciona com várias versões do Minecraft e pode ser integrado a outros plugins populares.</li>
+
+    <li><strong>Sistema de Enchant Table:</strong> Os jogadores podem usar mesas de encantamento para aplicar os encantamentos personalizados em seus itens.</li>
+
+    <li><strong>Experiência do Jogador:</strong> O plugin melhora a jogabilidade ao oferecer novos desafios e estratégias, tornando o jogo mais interessante e dinâmico.</li>
+</ul>
+
+</body>
+</html>
